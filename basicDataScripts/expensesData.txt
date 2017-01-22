@@ -1,0 +1,6 @@
+Food
+10000
+Electricity
+2000
+Oil
+2200.50
